@@ -26,7 +26,7 @@ Note that
 
 * ``main_case3.py`` use UCI ML Wine recognition datasets. https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data
 
-* To apply different k in k-NN algorithem, please modify the variable ``n_neighbors``, and you can accuracy under different k. 
+* To apply different k in k-NN algorithem, please modify the variable ``n_neighbors``, and get accuracy under different k. 
 
 * Also you can choose a start point by modify the variable ``Seed``.
 
