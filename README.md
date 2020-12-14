@@ -1,5 +1,7 @@
 # PageRankNibble_reimplementation
 
+This is the student project in Rome-Moscow school 2020.
+
 ## Requirements
 Following packages can be installed using pip or conda.
 ```
