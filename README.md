@@ -33,13 +33,13 @@ Note that
 
 
 ## Results
-###Experiment result on synthetic data (1/2)
+### Experiment result on synthetic data (1/2)
 ![13.png](https://i.loli.net/2020/12/15/EP5azRejNcLH13M.png)
 ![24.png](https://i.loli.net/2020/12/15/4PyKEpQAU9dnOXj.png)
 
-###Experiment result on synthetic data (2/2)
+### Experiment result on synthetic data (2/2)
 ![1133.png](https://i.loli.net/2020/12/15/UNsupdWgeRPylJj.png)
 ![2244.png](https://i.loli.net/2020/12/15/VFj8UesSMhLkNwl.png)
 
-###Experiment result on UCI ML Wine recognition datasets
+### Experiment result on UCI ML Wine recognition datasets
 ![111222.png](https://i.loli.net/2020/12/15/tTH61jv2bDJRXEA.png)
